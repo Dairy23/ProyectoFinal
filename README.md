@@ -1,8 +1,8 @@
 # ProyectoFinal
 Proyecto creado por Dairy Pernillo -  UMG Programacion III
 ┌─────────────────────────────────────────────────────────┐
-│                      MANUAL DE USUARIO                 					    │
-│         Gestión de Equipos de Fútbol (Windows Forms)    						│
+│                      MANUAL DE USUARIO                 			
+│         Gestión de Equipos de Fútbol (Windows Forms)    					
 └─────────────────────────────────────────────────────────┘
 
 ╔═════════════════════════════════════════════════════════╗
